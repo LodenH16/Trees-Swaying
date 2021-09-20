@@ -13,6 +13,7 @@
   bottom: 0px;
 }
 #backgroundContainer {
+  overflow: hidden;
   position: relative;
 }
 @keyframes swaying {
